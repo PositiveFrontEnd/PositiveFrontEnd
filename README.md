@@ -4,13 +4,13 @@
 <p align="left"> <a href="https://github.com/PositiveFrontEnd/FirstStepProject"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
-* DMV Test Prep - it's cross-platform mobile application build in Flutter;
-* As s sole developer I fully designed and implemented front-end and back-end solutions;
-* Server side is built with Swift programming language (Vapor framework). Hosted on Heroku;
-* Database - PostgresQL. Hosted on AWS.
+* First use of JavaScript, CSS, HTML
+* Site layout is made without using an adaptive
+* Using the Masonri Library
+
 
 <p align="center">
-<img src="https://i.postimg.cc/h4xkcK5J/2023-12-19-142409.png" width="930" title="DMV Test Prep">
+<img src="https://i.postimg.cc/SxWR90Rj/2023-12-19-142422.png" width=100% title="TheHam">
 
 </p>
 
