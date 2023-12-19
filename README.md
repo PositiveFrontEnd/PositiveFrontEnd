@@ -39,7 +39,7 @@
 </p>
 
 # [Euphoria](https://apps.apple.com/us/app/id1531009911) 
-<p align="left"> <a href="https://positivefrontend.github.io/AdvancedJsProject/" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+<p align="left"> <a href="" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
 </p>
 
 
