@@ -10,7 +10,7 @@
 * Database - PostgresQL. Hosted on AWS.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/180520043-f54ad385-3d75-441a-95d3-ecd5b0cc548d.png" width="930" title="DMV Test Prep">
+<img src="https://i.postimg.cc/h4xkcK5J/2023-12-19-142409.png" width="930" title="DMV Test Prep">
 
 </p>
 
