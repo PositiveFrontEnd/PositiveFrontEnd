@@ -1,7 +1,7 @@
 <a href="https://s3.amazonaws.com/attachments.angel.co/7192901-687be9e284e21102b934d0b72399ac9d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T235828Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4920642ceb1885f01605debb7f6f9148dfcaa97bf073abc27e7b2a91e8531082" download><a href="mailto:xzmkrit@gmail.com"><img src="https://img.shields.io/badge/Email-Yevhen-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yevhen-shuliak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yevhen%20Shuliak-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 # [TheHam]( https://positivefrontend.github.io/FirstStepProject/) 
-<p align="left"> <a href="https://github.com/PositiveFrontEnd/FirstStepProject" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >  <a href="https://play.google.com/store/apps/details?id=app.testologie.dmv" download><img src="https://user-images.githubusercontent.com/33416429/180564555-b73c1a70-1409-4b9b-a22f-32c7c4a2d3e9.png" width="170" > </a>
+<p align="left"> <a href="https://github.com/PositiveFrontEnd/FirstStepProject"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
 * DMV Test Prep - it's cross-platform mobile application build in Flutter;
