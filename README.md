@@ -39,7 +39,7 @@
 </p>
 
 # [Euphoria](https://euphoria-khaki.vercel.app/) 
-<p align="left"> <a href="https://github.com/PositiveFrontEnd/Euphoria" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+<p align="left"> <a href="https://github.com/PositiveFrontEnd/Euphoria"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
 
