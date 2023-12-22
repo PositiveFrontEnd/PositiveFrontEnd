@@ -38,8 +38,8 @@
 <img src="https://i.postimg.cc/jSH8FhZC/2023-12-19-144641.png" width=100% title="Health">
 </p>
 
-# [Euphoria]() 
-<p align="left"> <a href="" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+# [Euphoria](https://euphoria-khaki.vercel.app/) 
+<p align="left"> <a href="https://github.com/PositiveFrontEnd/Euphoria" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
 </p>
 
 
