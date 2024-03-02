@@ -63,7 +63,7 @@
 </p>
 
 * This is  an online store project  
-* This project uses such technologies as React,React-router-dom, Radax,Reduxjs/toolkit, SCSS, Yup, Formik,Swiper,Eslin,Axios,
+* This project uses such technologies as React,React-router-dom, Radax,Reduxjs/toolkit, SCSS, Yup, Formik,Swiper,Eslin,Axios...
 * Performed snapshot and unit test
 * Use of mongus and mongo db
 * Partial writing of the back-end
