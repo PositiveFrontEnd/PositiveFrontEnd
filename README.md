@@ -62,7 +62,8 @@
 <p align="left"> <a href="https://github.com/PositiveFrontEnd/Protect-Shop-Back-End"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
-* This is  an online store project  
+* This is  an online store project
+* This project is fully adapted for all types of gadgets
 * This project uses such technologies as React,React-router-dom, Radax,Reduxjs/toolkit, SCSS, Yup, Formik,Swiper,Eslin,Axios...
 * Performed snapshot and unit test
 * Use of mongus and mongo db
