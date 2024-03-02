@@ -65,11 +65,12 @@
 * This is  an online store project  
 * This project uses such technologies as React,React-router-dom, Radax,Reduxjs/toolkit, SCSS, Yup, Formik,Swiper,Eslin,Axios,
 * Performed snapshot and unit test
+* Use of mongus and mongo db
+* Partial writing of the back-end
 * Transitions between pages using Routes and Rout
 * Creating a form using Formik, Form and checking this form validation the Yup library
 * assembling a project using Vite
 
 <p align="center">
-<img src="https://postimg.cc/jCkyG5WF" width=100% title="Protect">
-
+<img src="https://i.postimg.cc/KvmQ33mx/2024-03-02-164146.png" width=100% title="Protect">
 </p>
