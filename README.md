@@ -53,9 +53,12 @@
 <img src="https://i.postimg.cc/7hz5M42R/2023-12-19-153911.png" width=100% title="Euphoria">
 
 </p>
+
 # [Protect](https://protect-shop.vercel.app/) 
+<p> Front-end </p>
 <p align="left"> <a href="https://github.com/PositiveFrontEnd/Protect-Shop"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
+<p> Back-end </p>
 <p align="left"> <a href="https://github.com/PositiveFrontEnd/Protect-Shop-Back-End"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
@@ -67,6 +70,6 @@
 * assembling a project using Vite
 
 <p align="center">
-<img src="https://ibb.co/z5P9PYk" width=100% title="Protect">
+<img src="https://postimg.cc/jCkyG5WF" width=100% title="Protect">
 
 </p>
