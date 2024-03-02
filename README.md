@@ -47,7 +47,7 @@
 * This project uses such technologies as React, Radax, SCSS, Yup, Formik
 * Transitions between pages using Routes and Rout
 * Creating a form using Formik, Form and checking this form validation the Yup library
-* assembling a project using Vue.js
+* assembling a project using Vite
 
 <p align="center">
 <img src="https://i.postimg.cc/7hz5M42R/2023-12-19-153911.png" width=100% title="Euphoria">
